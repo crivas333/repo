@@ -1,3 +1,4 @@
+{
 "scheduleData": [{
         "Id": 1,
         "Subject": "Explosion of Betelgeuse Star",
@@ -69,3 +70,4 @@
         "EndTime": "2019-01-16T07:30:00.000Z",
         "CategoryColor": "#ea7a57"
     }]
+}
